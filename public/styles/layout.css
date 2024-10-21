@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgb(250, 236, 210);
+}
+
+p {
+    font-family: 'DM Serif Display', serif;
+    text-wrap: pretty;
+}
+

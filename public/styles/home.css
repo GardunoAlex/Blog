@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(250, 236, 210);
+}
+
+.font{
+    font-family: 'DM Serif Display', serif;
+}
+
+a{
+    display: block;
+    font-size: 50px;
+    color: black;
+}
+
